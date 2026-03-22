@@ -125,6 +125,8 @@ items:
         href: ./networking/basic-http-networking
       - label: Advanced HTTP networking
         href: ./networking/advanced-http-networking
+      - label: Batching operations
+        href: ./networking/batching-with-batchhttplink
       - label: Authentication
         href: ./networking/authentication
   - label: API Reference
